@@ -1,6 +1,6 @@
 <html>
 <head>
- <title>Latihan 1</title>
+ <title>Tugas 1</title>
  </head>
 <body>
  Halo Kawan.. Yuk kita belajar web programming..!!!<br>
